@@ -12,7 +12,7 @@ This study will improve our understanding in this area and determine the epidemi
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU043_01: Variations in the risk of new-onset diabetes following COVID-19 infection across body mass index, deprivation, ethnicity, and geographic regions: Population-based cohort study in 42 million people in England](https://github.com/BHFDSC/CCU043_01)
 
 ## Project approval
 
